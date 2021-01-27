@@ -45,7 +45,7 @@ Data file name has the format of : "dl_orbit. a, b, c, d, e.txt"
 - c= 0, 1, 2 for M_bin= 3E+6, 1.0E+7, 1.0E+8 M_sun
 - d= 0, 1, 2 for n_gd0= 100, 200, 300 /cm^3
 - e= 0, 1, 2 for q= 1/3, 1/7, 1/9 
-### 4. Run the code and generates the 2D detectability plots. Here is an example of the 4 plots generated:
+### 4. Run the code and generates the 2D detectability plots. Here is an example of the 4 plots generated using the unmodified code and the 27 data files which you can download from this repositery:
 
 ![Image of 2d plot](https://github.com/kli356/Dual-AGN-Detectability/blob/Detectability/dl_pro_small.png)
 ![Image of 2d plot](https://github.com/kli356/Dual-AGN-Detectability/blob/Detectability/dl_retro_small.png)
