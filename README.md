@@ -48,10 +48,12 @@ Data file name has the format of : "dl_orbit. a, b, c, d, e.txt"
 ### 4. Run the code and generates the 2D detectability plots. Here is an example of the 4 plots generated:
 
 ![Image of 2d plot](https://github.com/kli356/Dual-AGN-Detectability/blob/Detectability/dl_pro_small.png)
+![Image of 2d plot](https://github.com/kli356/Dual-AGN-Detectability/blob/Detectability/dl_retro_small.png)
 
-**Figure.1** The two-dimensional probability distribution of dual AGNs in prograde oribts, embedded in galaxies with M_bin = 3E+6 M_sun, q = 1/9, and vg = 0.2vc. The distributions are summed over all values of n_gd0 and f_gd. The most likely dual AGN luminosity ratio in these types of galaxies is L2/L1 ∼ 1E-2, although prograde orbits have the potential to produce higher ratios. 
+**Figure.1** The two-dimensional probability distribution of dual AGNs in prograde oribts, embedded in galaxies with M_bin = 3E+6 M_sun, q = 1/9, and vg = 0.2vc. The distributions are summed over all values of n_gd0 and f_gd. The top panel shows the plot for sMBHs on prograde orbits, while the results for retrograde orbits are plotted in the bottom panel. For either type of orbit, The most likely dual AGN luminosity ratio in these types of galaxies is L2/L1 ∼ 1E-2, although prograde orbits have the potential to produce higher ratios. In contrast, sMBHs on retrograde orbits are most likely to be found at separations of 0.5–0.9 kpc, while those on prograde orbits will likely be found at 0.3–0.4 kpc. The difference in the most-likely separations is due to how the eccentricity of the orbits evolve in the two cases (see Sect. 3.1 of https://ui.adsabs.harvard.edu/abs/2020ApJ...896..113L/abstract).
 
 
 ![Image of 2d plot 2](https://github.com/kli356/Dual-AGN-Detectability/blob/Detectability/dl_pro_large.png)
+![Image of 2d plot 2](https://github.com/kli356/Dual-AGN-Detectability/blob/Detectability/dl_retro_large.png)
 
 **Figure.2** The two-dimensional probability distribution of dual AGNs in prograde oribts, embedded in galaxies with M_bin = 1E+8 M_sun, q = 1/3, and vg = 0.8vc. The distributions are summed over all values of n_gd0 and f_gd. Here, the decrease in relative velocity between the sMBH and the galaxy increases the accretion rate onto the sMBH, boosting the most likely observed value of L2/L1 to ∼ 1 for prograde orbits. In addition, as the characteristic scales of the bulge and disks are proportional to M1 there will be a larger gas density at a given separation, further enhancing L2 compared to the situation in Fig. 1.
