@@ -39,7 +39,7 @@ be observed.
 ### 3. Edit the input files' name according to your need.
 Data file name has the format of : "dl_orbit. a, b, c, d, e.txt"
 
-- orbit= l2, lr2, h2, hr2 for prograde+low e_0, retrograde+low e_0, prograde+high e_0, retrograde+high e_0 
+- orbit= l2, lr2, h2, hr2 for prograde+low e_i, retrograde+low e_i, prograde+high e_i, retrograde+high e_i 
 - a= 0, 1, 2 for v_g= 0.2, 0.5, 0.8 v_c
 - b= 0, 1, 2 for f_dg= 0.3, 0.5, 0.9
 - c= 0, 1, 2 for M_bin= 3E+6, 1.0E+7, 1.0E+8 M_sun
